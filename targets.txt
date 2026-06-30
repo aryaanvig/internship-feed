@@ -1,0 +1,66 @@
+# YOUR TARGET COMPANIES — one match-term per line.
+# The script keeps any posting whose company name CONTAINS one of these (case-insensitive).
+# Edit freely: add, remove, or broaden terms. Lines starting with # are ignored.
+# Tip: use the shortest unique token (e.g. "deepmind" not "Google DeepMind").
+
+# --- Frontier AI labs ---
+openai
+anthropic
+deepmind
+xai
+mistral
+# (Meta is matched under big tech below)
+
+# --- AI data labs / AI-native ---
+scale ai
+mercor
+micro1
+surge
+perplexity
+cursor
+anysphere
+cognition
+hugging face
+together ai
+
+# --- Health AI ---
+openevidence
+abridge
+hippocratic
+tempus
+isomorphic
+
+# --- FAANG / big tech ---
+google
+meta
+amazon
+apple
+microsoft
+nvidia
+amd
+databricks
+salesforce
+adobe
+palantir
+snowflake
+datadog
+
+# --- Quant / HFT ---
+jane street
+citadel
+hudson river
+two sigma
+jump trading
+optiver
+susquehanna
+sig
+de shaw
+d. e. shaw
+
+# --- Fintech ---
+stripe
+bloomberg
+coinbase
+robinhood
+ramp
+plaid
